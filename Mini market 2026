@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Mini Online Market</title>
+    <link rel="stylesheet" href="1.css">
+</head>
+<body>
+
+    <header>
+        <div class="logo">Online<span>Market</span></div>
+        <nav>
+            <ul>
+                <li><a href="#">Birinshi bolim</a></li>
+                <li><a href="#">Onimler</a></li>
+                <li><a href="#">Sebet (0)</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <h2>Biznin onimler</h2>
+        
+        <div class="product-grid">
+            <div class="product-card">
+                <div class="product-image">💻</div>
+                <h3>Noutbuk Pro</h3>
+                <p>Baxasi: 12,000,000 so'm</p>
+                <button class="buy-btn">Sevetke qosiw</button>
+            </div>
+
+            <div class="product-card">
+                <div class="product-image">📱</div>
+                <h3>Smartphone X</h3>
+                <p>Baxasi: 8,500,000 so'm</p>
+                <button class="buy-btn">Sebetke qosiw</button>
+            </div>
+
+            <div class="product-card">
+                <div class="product-image">🎧</div>
+                <h3>Wireless Headphones</h3>
+                <p>Baxasi: 1,200,000 so'm</p>
+                <button class="buy-btn">Sevetke qosiw</button>
+            </div>
+
+            <div class="product-card">
+                <div class="product-image">⌚</div>
+                <h3>Smart Watch</h3>
+                <p>Baxasi: 2,000,000 so'm</p>
+                <button class="buy-btn">Sevetke qosiw</button>
+            </div>
+        </div>
+    </main>
+
+    <footer>
+        <p>&copy; 2026 Mini Online Market. Hamme huquqlardan qorgangan halda.</p>
+    </footer>
+
+</body>
+</html>
